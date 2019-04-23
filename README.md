@@ -1,6 +1,6 @@
 # photoblog_flex
 
-In this project I created a web page using flexbox.
+In this project I created a image gallery web page using flexbox.
 
 ## Built With
 
