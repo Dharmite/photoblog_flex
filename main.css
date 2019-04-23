@@ -1,0 +1,77 @@
+#header_photo_blog header{
+
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex: 1;
+    font-size: 15px;
+    justify-content:flex-start;
+
+
+
+
+    /*
+    margin: auto;
+
+    */
+
+}
+
+#header_photo_blog header h1 {
+  font-family: 'Raleway'
+}
+
+
+#header_photo_blog{
+
+    margin-bottom: 2%;
+
+}
+.container-1{
+    
+    margin: auto;
+    width: 90%; 
+    display: flex;
+    justify-content:space-between;
+
+
+}
+
+
+.container-2{
+    
+    margin: auto;
+    width: 90%; 
+    display: flex;
+    justify-content:space-between;
+
+
+}
+
+.container-3{
+    
+    margin: auto;
+    width: 90%; 
+    display: flex;
+    justify-content:space-between;
+
+
+}
+.photo{
+
+    width: 30%;
+
+}
+.photo img{
+    
+    width: 100%;
+    height: auto;
+
+}
+
+/* (1199px - (360*3)) /2 = 59.5px */
+.row-space{
+
+    margin-bottom: 59.5px;
+
+}
